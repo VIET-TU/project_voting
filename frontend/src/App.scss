@@ -1,0 +1,16 @@
+.App {
+  display: flex;
+  justify-content: center;
+}
+
+body,
+.App {
+  min-height: 100vh;
+  margin: 0;
+  scroll-behavior: smooth;
+  text-rendering: optimizeSpeed;
+  line-height: 1.5;
+  font-size: 1.15rem;
+  font-family: "Inter", sans-serif;
+  background-color: #ffffff;
+}
